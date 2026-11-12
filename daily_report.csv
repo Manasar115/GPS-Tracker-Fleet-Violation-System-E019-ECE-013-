@@ -1,0 +1,13 @@
+date,vehicle_id,driver_name,geofence_events,overspeed_events,idling_events,night_drive_events,gps_lost_events,idle_minutes,idle_cost_rs,driver_score
+2026-10-15,VEH-01,Deepak Shetty,0,0,0,0,0,0,0.00,100
+2026-10-15,VEH-02,Vinay Kulkarni,0,0,0,0,1,0,0.00,100
+2026-10-15,VEH-03,Ganesh Nair,0,11,0,0,0,0,0.00,0
+2026-10-15,VEH-04,Sachin Bhat,0,1,0,0,0,0,0.00,90
+2026-10-15,VEH-05,Usha Rao,1,0,2,0,0,19,34.96,91
+2026-10-15,VEH-06,Sachin Patil,0,0,1,0,0,7,12.88,98
+2026-10-15,VEH-07,Mohan Gowda,0,0,0,0,0,0,0.00,100
+2026-10-15,VEH-08,Santosh Desai,0,2,0,0,0,0,0.00,80
+2026-10-15,VEH-09,Ganesh Verma,0,0,1,0,0,2,2.76,98
+2026-10-15,VEH-10,Pallavi Nair,0,0,0,0,0,0,0.00,100
+2026-10-15,VEH-11,Dinesh Menon,1,1,0,1,0,0,0.00,70
+2026-10-15,VEH-12,Lokesh Naik,0,0,0,0,0,0,0.00,100

@@ -1,0 +1,4 @@
+zone_id,zone_name,min_lat,max_lat,min_lon,max_lon
+ZONE-S,South Bengaluru (Jayanagar-JP Nagar),12.88000,12.95000,77.54000,77.63000
+ZONE-E,East Bengaluru (Indiranagar-Whitefield),12.94000,13.01000,77.64000,77.74000
+ZONE-N,North Bengaluru (Hebbal-Yelahanka),13.02000,13.10000,77.55000,77.64000

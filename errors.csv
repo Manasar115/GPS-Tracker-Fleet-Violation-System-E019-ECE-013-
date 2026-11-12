@@ -1,0 +1,7 @@
+line_no,ping_id,vehicle_id,reason
+152,PNG-00151,VEH-08,Out-of-order GPS record
+953,PNG-00952,VEH-01,Invalid GPS record
+1178,PNG-01177,VEH-13,Unknown vehicle
+1188,PNG-01187,VEH-13,Unknown vehicle
+1198,PNG-01197,VEH-13,Unknown vehicle
+1243,PNG-01242,VEH-12,Invalid GPS record

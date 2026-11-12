@@ -1,0 +1,6 @@
+# ECE-013 command file - load masters, load the day's pings, then print the event log and daily report
+LOAD_ZONES|zones.csv
+LOAD_VEHICLES|vehicles.csv
+LOAD_PINGS|pings.csv
+EVENT_LOG|ALL
+DAILY_REPORT|2026-10-15
